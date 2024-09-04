@@ -1,11 +1,11 @@
 h2{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
 
 }
 body{
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
 
 }
 form{
@@ -13,7 +13,9 @@ form{
     margin: auto;
     width: 500px;
 }
+
 #botao{
+
 
     padding: 5px 15px; /* Espaçamento interno (topo e laterais) */
     text-align: center; /* Alinhamento do texto */
@@ -23,7 +25,7 @@ form{
     }
     input{
     padding: 5px 0px;
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(255, 255, 255);
     
     }
     #nome{
@@ -35,12 +37,13 @@ form{
     .box{
     width:500px;
     height: 500px;
-    border: solid 5px #ff0000;
+    border: solid 5px #000000;
     margin: 2% auto;
     padding: 70px 100px 50px 130px;
 
     }
     .gd{
         text-align: center;
-        color: #ff0000;
+        color: #000000;
+
     }
